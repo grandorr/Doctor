@@ -1,24 +1,9 @@
-# README
+# Doctor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chaque Doctor peut avoir plusieurs Patient et chaque Patient peut avoir plusieurs Doctor.
+Le lien entre les deux est fait avec la table Appointment.
 
-Things you may want to cover:
+Chaque Doctor peut avoir plusieurs Specialty et chaque Specialty peut concerner plusieurs Doctor.
+Le lien entre les deux est fait avec la table Join.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
